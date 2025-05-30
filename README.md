@@ -2,12 +2,6 @@
 
 A fast, modern feature flag dashboard built with React, Zustand, and Vite. Designed to showcase senior frontend practices with mocked APIs, vertical architecture, and polished UI.
 
-![screenshot](./screenshot.png)
-
-## 🚀 Live Demo
-
-[https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
-
 ---
 
 ## 🧰 Tech Stack
